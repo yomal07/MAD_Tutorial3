@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstActivity</string>
+    <string name="num1">Number 1:</string>
+    <string name="num2">Number 2:</string>
+    <string name="btn_str_ok">OK</string>
+    <string name="btnAdd">+</string>
+    <string name="btnSub">-</string>
+    <string name="btnMultiply">*</string>
+    <string name="btnDivision">/</string>
+</resources>
